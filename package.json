@@ -60,7 +60,7 @@
     "usemin-cli": "^0.5.1"
   },
   "dependencies": {
-    "bootstrap": "^5.0.1",
+    "bootstrap": "^5.0.2",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.0",
